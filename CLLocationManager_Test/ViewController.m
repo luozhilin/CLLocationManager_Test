@@ -54,6 +54,7 @@
         self.lcManager.desiredAccuracy = kCLLocationAccuracyBest;
         [self.lcManager startUpdatingLocation]; // 开始更新位置
     }
+    NSLog(@"ceshi");
 }
 
 - (void)didReceiveMemoryWarning {
