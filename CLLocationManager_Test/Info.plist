@@ -43,5 +43,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>ios8之后请求前台定位</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>ios8之后请求前后台定位</string>
 </dict>
 </plist>
